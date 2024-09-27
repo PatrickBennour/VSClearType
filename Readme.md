@@ -1,4 +1,4 @@
-<div style="font-family:segoe wp; text-shadow:0px 0px 4px rgba(0,0,0,0.2)">
+<div style="font-family:Segoe UI; text-shadow:0px 0px 4px rgba(0,0,0,0.2)">
 <img src="Extension/VSClearType.png" style="display:inline-block; float:left; height:24px; margin:5px;" />
 <h2>VSClearType</h2>
 
@@ -15,3 +15,5 @@ Die Einstellungen, die in auf dieser Seite gewählt werden, werden exemplarisch d
 Wenn [Cancel] gewählt wird, werden alle Änderungen verworfen und der ursprüngliche Zustand wiederhergestellt.
 
 Angenehme Arbeit mit ClearType-Unterstützung in der Visual Studio IDE...
+
+</div>

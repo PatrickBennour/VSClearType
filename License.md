@@ -1,4 +1,4 @@
-<div style="font-family:segoe wp; text-shadow:0px 0px 4px rgba(0,0,0,0.2)">
+<div style="font-family:Segoe UI; text-shadow:0px 0px 4px rgba(0,0,0,0.2)">
 <img src="Extension/VSClearType.png" style="display:inline-block; float:left; height:24px; margin:5px;" />
 <h2>VSClearType</h2>
 
@@ -182,3 +182,5 @@ Alle sonstigen Änderungen oder Ergänzungen dieses Anhangs bedürfen der Ausarb
 This website is not sponsored or endorsed by the [**European Commission**](https://ec.europa.eu/) or any other institution, body or agency of the [**European Union**](https://europa.eu/).
 
 Created by [**Javier Casares**](https://joinup.ec.europa.eu/people/73460) under license [**EUPL 1.2**](https://eupl.eu/).
+
+</div>

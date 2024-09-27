@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSClearType.ecf2831d-59b1-4f43-be29-d24c2f5e47b8" Version="1.1.1" Language="de-DE" Publisher="Patrick Bennour" />
+        <Identity Id="VSClearType.ecf2831d-59b1-4f43-be29-d24c2f5e47b8" Version="1.1.3" Language="de-DE" Publisher="Patrick Bennour" />
         <DisplayName>VSClearType</DisplayName>
         <Description xml:space="preserve">ClearType Support für Visual Studio 2022</Description>
         <License>License.rtf</License>
